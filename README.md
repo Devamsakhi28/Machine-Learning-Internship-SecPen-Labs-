@@ -51,4 +51,4 @@ Simple README for Jupyter Notebook
   
 8. Support  
 Contact: ndevamsakhi@gmail.com 
-GitHub:   
+ 
